@@ -1,0 +1,13 @@
+jupyter
+lxml
+requests
+pendulum
+jupyterlab
+ipython-sql
+pandas
+matplotlib
+jupyterlab_sql
+records
+PyGithub
+GitPython
+numpy
